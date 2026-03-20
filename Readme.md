@@ -1,0 +1,1 @@
+Code & dataset accompanying the paper entitled "From Dr. Google to Dr. ChatGPT: Evaluating the Performance of Large Language Models as a Tool for Primary Care Consultations" currently submitted to the *Journal of Medical Informatics*
